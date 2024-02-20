@@ -5,26 +5,26 @@
 	border-radius:20px;
 	padding:20px;
 	display:flex;
-	text-align:right;
-	align-items:right;
 	justify-content:center;
 	gap:10px;
+	position:center;
+	margin:50px;
 	
 	
 }
-#one{
+.green{
 	width:200px;
 	height:200px;
 	background-color:green;
 	border-radius:50%;
 }
-#two{
+.yellow{
 	width:200px;
 	height:200px;
 	background-color:yellow;
 	border-radius:50%;
 }
-#three{
+.red{
 	width:200px;
 	height:200px;
 	background-color:red;
